@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1672709948 source:d:\programmingmonkey\database\lab5\extmem-c\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"extmem.h"
+
+1308709046 d:\programmingmonkey\database\lab5\extmem-c\main\extmem.h
+
+1554883444 source:d:\programmingmonkey\database\lab5\extmem-c\main\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1591860118 source:d:\programmingmonkey\database\lab5\extmem-c\main\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
